@@ -1,0 +1,70 @@
+
+*{
+    margin: 0;
+}
+body{
+    background-image:url(../Jenny2/image/employee-meeting.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+    height: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;    
+    background-color: rgba(158, 184, 184, 0.521);
+    
+}
+.toptext{
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.toptext h1{
+    color: black;
+}
+.main{
+    border-radius: 1.50%;
+    margin-top: 1%;
+    padding: 1.50%;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+    background-color: rgba(123, 225, 233, 0.342);
+}
+label{
+    display: block;
+    margin-top: .50%;
+   
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 1.50%;
+    height: 2.50vw;
+}
+select{
+    width: 100%;
+    height: 2.50vw;
+}
+textarea{
+    width: 100%;
+    box-sizing: border-box;
+}
+.checkboxselect{
+    width: 2%;
+    margin-left: 3%;
+    height: 1vw;
+}
+button{
+    display: block;
+    width: 100%;
+    margin-bottom: 1%;
+    height: 2.50vw;
+}
+
+
+
+
+
+
+    
